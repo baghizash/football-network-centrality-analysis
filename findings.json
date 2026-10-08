@@ -1,0 +1,16 @@
+{
+  "conference_assortativity_football1": 0.627538,
+  "conference_assortativity_football2": 0.009602,
+  "degree_assortativity": 0.162442,
+  "wins_assortativity": -0.049807,
+  "n_brokers_constraint_lt_0_15": 6,
+  "win_rate_top10_brokers": 0.453105,
+  "win_rate_bottom10_brokers": 0.532576,
+  "constraint_winrate_correlation": 0.090166,
+  "lowest_effective_size": [
+    "WakeForest",
+    "Virginia",
+    "Clemson"
+  ],
+  "smelliness_degree_correlation": 0.735434
+}
